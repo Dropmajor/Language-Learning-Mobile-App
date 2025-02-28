@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d63a4648-5145-4c93-9b4a-a47227e601ef)# Language-Learning-Mobile-App
+# Language-Learning-Mobile-App
 ## Introduction
 This is a react native built to complement language learning. I built this to aid my German learning.<br>
 The idea behind this app is to combine a translation app and a flashcards app to act as a convenient package to allow you to translate new phrases and save them as flashcards to allow for easy revision
